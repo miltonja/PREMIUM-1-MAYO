@@ -31,6 +31,10 @@ http://181.78.10.235:58002/play/a0al/index.m3u8
 http://181.78.10.235:58002/play/a0aj/index.m3u8
 #EXTINF:-1 ,City TV
 http://181.78.10.235:58002/play/a0c5/index.m3u8
+#EXTINF:-1 ,Satellite Latina HD
+http://179.43.82.2:9090/play/a046/index.m3u8
+#EXTINF:-1 ,AmericaTV HD
+http://179.43.82.2:9090/play/a044/index.m3u8
 #EXTINF:-1 ,Comedy Central
 http://181.78.10.235:58002/play/a0b1/index.m3u8
 #EXTINF:-1 ,Cristovisiðn
