@@ -13,7 +13,7 @@ http://181.78.10.235:58002/play/a0ap/index.m3u8
 http://181.78.10.235:58002/play/a0cd/index.m3u8
 #EXTINF:-1 ,Baby TV
 http://181.78.10.235:58002/play/a0c7/index.m3u8
-#EXTINF:-1 ,CNN Espaæol
+#EXTINF:-1 ,CNN Español
 http://181.78.10.235:58002/play/a0cc/index.m3u8
 #EXTINF:-1 ,CNN International
 http://181.78.10.235:58002/play/a0ce/index.m3u8
@@ -41,9 +41,9 @@ http://181.78.10.235:58002/play/a0b1/index.m3u8
 http://181.78.10.235:58002/play/a0ax/index.m3u8
 #EXTINF:-1 ,DW (Deutsch +)
 http://181.78.10.235:58002/play/a0ch/index.m3u8
-#EXTINF:-1 ,De PelŦcula
+#EXTINF:-1 ,De Pelicula
 http://181.78.10.235:58002/play/a0c0/index.m3u8
-#EXTINF:-1 ,De PelŦcula
+#EXTINF:-1 ,De Pelicula
 http://181.78.10.235:58002/play/a0bw/index.m3u8
 #EXTINF:-1 ,Discovery Channel
 http://181.78.10.235:58002/play/a0as/index.m3u8
